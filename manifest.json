@@ -1,0 +1,15 @@
+{
+  "name": "Hidden GitHub Unread Notification Count",
+  "version": "0.0.1",
+  "description": "Hides the unread notification count when you're logged in on GitHub.",
+  "icons": {
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "content_scripts": [
+      {
+        "matches": ["*://github.com/*"],
+        "css": ["github.css"]
+      }
+  ]  
+}

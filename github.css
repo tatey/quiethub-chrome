@@ -1,0 +1,5 @@
+body.logged_in
+div#header
+a.unread_count.notifications_count {
+  display: none !important;
+}
