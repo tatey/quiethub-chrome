@@ -5,6 +5,12 @@ when you're logged in on [GitHub](http://github.com).
 
 ## Installation
 
+### Chrome Web Store
+
+https://chrome.google.com/webstore/detail/obobnagpnefgphoclmkmfjbemgndlcad
+
+### Manual
+
 1. Clone this repository into your favourite directory
 2. Window > Extensions
 3. Check "Developer Mode"
@@ -34,4 +40,4 @@ prominently on the dashboard when I may have read them.
 
 ![Quiet](/downloads/tatey/quiethub/after.png)
 
-I :heart: GitHub, but these two things really annoy me.
+I *love* GitHub, but these two things really annoy me.
