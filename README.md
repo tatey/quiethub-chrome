@@ -33,3 +33,5 @@ prominently on the dashboard when I may have read them.
 ### After
 
 ![Quiet](/downloads/tatey/quiethub/after.png)
+
+I :heart: GitHub, but these two things really annoy me.
