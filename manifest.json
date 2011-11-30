@@ -1,7 +1,7 @@
 {
-  "name": "Hidden GitHub Unread Count",
+  "name": "QuietHub",
   "version": "0.0.1",
-  "description": "Hides the unread counts when you're logged in on GitHub.",
+  "description": "Hides badges and broadcasts when you're logged in on GitHub.",
   "icons": {
     "48": "icon48.png",
     "128": "icon128.png"

@@ -2,3 +2,8 @@ div#header a.unread_count,
 div#header a.notifications_count {
   display: none !important;
 }
+
+div#dashboard
+div.octofication {
+  display: none;
+}
