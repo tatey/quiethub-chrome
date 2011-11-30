@@ -28,8 +28,8 @@ prominently on the dashboard when I may have read them.
 
 ### Before
 
-![Noisy](/downloads/tatey/hidden-github-count-chrome-extension/before.png)
+![Noisy](/downloads/tatey/quiethub/before.png)
 
 ### After
 
-![Quiet](/downloads/tatey/hidden-github-count-chrome-extension/after.png)
+![Quiet](/downloads/tatey/quiethub/after.png)
