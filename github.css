@@ -1,5 +1,5 @@
-div#header a.unread_count, 
-div#header a.notifications_count {
+div#header .unread_count, 
+div#header .notifications_count {
   display: none !important;
 }
 
