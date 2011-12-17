@@ -1,6 +1,6 @@
 {
   "name": "QuietHub",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Hides badges and broadcasts when you're logged in on GitHub.",
   "icons": {
     "48": "icon48.png",
